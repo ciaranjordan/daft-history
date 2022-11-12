@@ -2144,18 +2144,6 @@
           "value": "65"
         },
         "propertySize": "65 m²",
-        "openViewings": {
-          "summary": "Open from Nov 12th",
-          "details": [
-            {
-              "day": "Sat, 12/11",
-              "startTime": "16:00",
-              "endTime": "16:30",
-              "rawStartTime": 1668268800000,
-              "rawEndTime": 1668270600000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -2551,7 +2539,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1668155919000,
+        "publishDate": 1668269857000,
         "price": "€385,000",
         "abbreviatedPrice": "€385k",
         "numBedrooms": "4 Bed",
