@@ -87,7 +87,7 @@
           ],
           "totalImages": 17,
           "hasVideo": false,
-          "hasVirtualTour": false,
+          "hasVirtualTour": true,
           "hasBrochure": false
         },
         "ber": {
@@ -4052,7 +4052,7 @@
           ],
           "totalImages": 15,
           "hasVideo": false,
-          "hasVirtualTour": false,
+          "hasVirtualTour": true,
           "hasBrochure": false
         },
         "ber": {
@@ -4066,18 +4066,6 @@
           "value": "94"
         },
         "propertySize": "94 m²",
-        "openViewings": {
-          "summary": "Open from Nov 19th",
-          "details": [
-            {
-              "day": "Sat, 19/11",
-              "startTime": "14:00",
-              "endTime": "14:30",
-              "rawStartTime": 1668866400000,
-              "rawEndTime": 1668868200000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
