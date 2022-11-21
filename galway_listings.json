@@ -113,7 +113,7 @@
           "Property",
           "Residential",
           "House",
-          "Detached House"
+          "Semi-Detached House"
         ],
         "saleType": [
           "For Sale"
@@ -125,7 +125,7 @@
         "abbreviatedPrice": "€285k",
         "numBedrooms": "4 Bed",
         "numBathrooms": "3 Bath",
-        "propertyType": "Detached",
+        "propertyType": "Semi-D",
         "daftShortcode": "114385994",
         "seller": {
           "sellerId": 3765,
@@ -208,11 +208,11 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.041036,
-            53.294034
+            -9.041034,
+            53.294035
           ]
         },
-        "seoFriendlyPath": "/for-sale/detached-house-110-sceilg-ard-headford-road-co-galway/4520746",
+        "seoFriendlyPath": "/for-sale/semi-detached-house-110-sceilg-ard-headford-road-co-galway/4520746",
         "pageBranding": {
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiZS80L2U0NjU2MmVkZjIzYjlhYWM2M2I4OTc0OThhMTJkY2I0X3N0YW5kYXJkLnBuZyJ9?signature=55fbb39b21953394d9875274f9646a21319d248713b46afb6afa846b8b601023",
           "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2YvYWZhMTVjZjJjMzE3ZTRmNGVjM2MxY2FlNDg4YmU5ODkuanBnIn0=?signature=6d931ee43c57b7bff41e4263b0dd86ff08e05cfe502ffa5f7c7ca7e346d9fb81",
@@ -5395,7 +5395,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669032291000,
+        "publishDate": 1669035903000,
         "price": "€215,000",
         "abbreviatedPrice": "€215k",
         "numBedrooms": "2 Bed",
@@ -5848,13 +5848,13 @@
   ],
   "showcaseListings": [],
   "paging": {
-    "totalPages": 7,
+    "totalPages": 6,
     "currentPage": 1,
     "nextFrom": 50,
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 303,
+    "totalResults": 298,
     "pageSize": 50
   },
   "dfpTargetingValues": {
