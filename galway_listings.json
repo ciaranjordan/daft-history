@@ -130,7 +130,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669215919000,
+        "publishDate": 1669219505000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "2 Bed",
@@ -340,6 +340,18 @@
           "value": "112"
         },
         "propertySize": "112 m²",
+        "openViewings": {
+          "summary": "Open from Nov 26th",
+          "details": [
+            {
+              "day": "Sat, 26/11",
+              "startTime": "10:00",
+              "endTime": "10:30",
+              "rawStartTime": 1669456800000,
+              "rawEndTime": 1669458600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -1411,6 +1423,18 @@
           "value": "102"
         },
         "propertySize": "102 m²",
+        "openViewings": {
+          "summary": "Open from Nov 26th",
+          "details": [
+            {
+              "day": "Sat, 26/11",
+              "startTime": "11:15",
+              "endTime": "11:45",
+              "rawStartTime": 1669461300000,
+              "rawEndTime": 1669463100000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -1656,6 +1680,18 @@
           "value": "102"
         },
         "propertySize": "102 m²",
+        "openViewings": {
+          "summary": "Open from Nov 26th",
+          "details": [
+            {
+              "day": "Sat, 26/11",
+              "startTime": "13:30",
+              "endTime": "14:00",
+              "rawStartTime": 1669469400000,
+              "rawEndTime": 1669471200000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -5275,6 +5311,18 @@
           "value": "94"
         },
         "propertySize": "94 m²",
+        "openViewings": {
+          "summary": "Open from Nov 26th",
+          "details": [
+            {
+              "day": "Sat, 26/11",
+              "startTime": "12:30",
+              "endTime": "13:00",
+              "rawStartTime": 1669465800000,
+              "rawEndTime": 1669467600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
