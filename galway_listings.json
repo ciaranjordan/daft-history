@@ -336,8 +336,8 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.111202,
-            53.265421
+            -9.111201,
+            53.265422
           ]
         },
         "seoFriendlyPath": "/for-sale/semi-detached-house-79-the-rise-knocknacarra-co-galway/4526208",
@@ -381,8 +381,10 @@
         "daftShortcode": "114433387",
         "seller": {
           "sellerId": 1965,
-          "name": "Deirdre D'Arcy",
-          "phone": "091 565261",
+          "name": "Alan Maxwell",
+          "phone": "091565261",
+          "phoneWhenToCall": "Mon - Fri, 9 am to 5:30 pm",
+          "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOS82OTM1OTZiYWZlOTYzZGNkODlhOWVkODFjZGRlNTBkYy5qcGcifQ==?signature=44f270d73b7f39da6447832e3d2a2e5f55fc07d4d34d322e6bd9e66f8791eea7",
           "branch": "DNG Maxwell Heaslip & Leonard",
           "address": "11 Francis Street,\r\nGalway",
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNS8yLzUyMGI0YThjNTRmMDliM2UxOGJkYTQ0MzRkNzdkNzM1X3N0YW5kYXJkLnBuZyJ9?signature=651c1daca26ee619d9e31afe4c52619e49d89bc4d39f240a3c000b89196ae919",
@@ -734,7 +736,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669291454000,
+        "publishDate": 1669295089000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "2 Bed",
@@ -928,7 +930,7 @@
               "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvOS8zOWIxZjdjYjc0YTM4ZTRjNGNlODE1ZmIzNGYzYzY3ZC5qcGcifQ==?signature=ba1d73609c9de70d62d11fa0d4d79e66082d1b26e751db0fa233b75b4e0bfb2c"
             }
           ],
-          "totalImages": 21,
+          "totalImages": 23,
           "hasVideo": false,
           "hasVirtualTour": true,
           "hasBrochure": false
