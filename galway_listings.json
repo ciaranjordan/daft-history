@@ -160,7 +160,7 @@
           "showContactForm": true,
           "premierPartnerSeller": false
         },
-        "dateOfConstruction": "NA",
+        "dateOfConstruction": "1996",
         "media": {
           "images": [
             {
@@ -224,6 +224,18 @@
           "value": "91"
         },
         "propertySize": "91 m²",
+        "openViewings": {
+          "summary": "Open from Dec 3rd",
+          "details": [
+            {
+              "day": "Sat, 03/12",
+              "startTime": "15:15",
+              "endTime": "15:45",
+              "rawStartTime": 1670080500000,
+              "rawEndTime": 1670082300000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -600,7 +612,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669954007000,
+        "publishDate": 1669971817000,
         "price": "€265,000",
         "abbreviatedPrice": "€265k",
         "numBedrooms": "3 Bed",
@@ -1409,7 +1421,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669889145000,
+        "publishDate": 1669972061000,
         "price": "€395,000",
         "abbreviatedPrice": "€395k",
         "numBedrooms": "3 Bed",
@@ -1420,6 +1432,7 @@
           "sellerId": 3765,
           "name": "Niall Browne",
           "phone": "091 564 212",
+          "alternativePhone": "0866009523",
           "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvZS84ZWYxM2JlYjY4OWE2NzgyYzgyNTQwMzhlZjZhNTBjNy5qcGcifQ==?signature=77b914de53e45e36c3c625920b031e9abd13faa7970ef568e4a51ee242d028e9",
           "branch": "O'Donnellan & Joyce",
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiZS80L2U0NjU2MmVkZjIzYjlhYWM2M2I4OTc0OThhMTJkY2I0X3N0YW5kYXJkLnBuZyJ9?signature=55fbb39b21953394d9875274f9646a21319d248713b46afb6afa846b8b601023",
@@ -1496,8 +1509,8 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.070003,
-            53.26652
+            -9.070004,
+            53.266519
           ]
         },
         "seoFriendlyPath": "/for-sale/end-of-terrace-house-25-salthill-road-lower-salthill-co-galway/4530457",
@@ -3179,7 +3192,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669954007000,
+        "publishDate": 1669971817000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "2 Bed",
@@ -5905,7 +5918,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 299,
+    "totalResults": 298,
     "pageSize": 50
   },
   "dfpTargetingValues": {
