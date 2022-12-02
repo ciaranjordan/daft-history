@@ -140,7 +140,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669989871000,
+        "publishDate": 1669993509000,
         "price": "€195,000",
         "abbreviatedPrice": "€195k",
         "numBedrooms": "3 Bed",
@@ -1106,7 +1106,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669989872000,
+        "publishDate": 1669993510000,
         "price": "€265,000",
         "abbreviatedPrice": "€265k",
         "numBedrooms": "3 Bed",
@@ -1397,6 +1397,18 @@
           "hasBrochure": false
         },
         "platform": "FEEDS",
+        "openViewings": {
+          "summary": "Open from Dec 8th",
+          "details": [
+            {
+              "day": "Thu, 08/12",
+              "startTime": "15:00",
+              "endTime": "16:00",
+              "rawStartTime": 1670511600000,
+              "rawEndTime": 1670515200000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -3685,7 +3697,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1669989872000,
+        "publishDate": 1669993509000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "2 Bed",
