@@ -264,9 +264,9 @@
         "saleType": [
           "For Sale"
         ],
-        "featuredLevel": "STANDARD",
-        "featuredLevelFull": "STANDARD",
-        "publishDate": 1670279714000,
+        "featuredLevel": "FEATURED",
+        "featuredLevelFull": "PREMIER_PARTNER_FEATURED",
+        "publishDate": 1670284800000,
         "price": "€340,000",
         "abbreviatedPrice": "€340k",
         "numBedrooms": "3 Bed",
@@ -366,7 +366,7 @@
         },
         "category": "Buy",
         "state": "PUBLISHED",
-        "premierPartner": false
+        "premierPartner": true
       },
       "savedAd": false
     },
