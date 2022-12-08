@@ -248,20 +248,19 @@
         "sections": [
           "Property",
           "Residential",
-          "Apartment",
-          "Duplex"
+          "Apartment"
         ],
         "saleType": [
           "For Sale"
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1670420430000,
+        "publishDate": 1670498902000,
         "price": "€375,000",
         "abbreviatedPrice": "€375k",
         "numBedrooms": "2 Bed",
         "numBathrooms": "1 Bath",
-        "propertyType": "Duplex",
+        "propertyType": "Apartment",
         "daftShortcode": "114582002",
         "seller": {
           "sellerId": 11043,
@@ -339,7 +338,7 @@
             53.27144
           ]
         },
-        "seoFriendlyPath": "/for-sale/duplex-apartment-7-kirwans-court-galway-city-co-galway/4542293",
+        "seoFriendlyPath": "/for-sale/apartment-apartment-7-kirwans-court-galway-city-co-galway/4542293",
         "pageBranding": {
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiYi85L2I5NjZiNTk3MGU4YWU0YzY0ZmUzMWM5Zjg0Yjc4NWYwX3N0YW5kYXJkLnBuZyJ9?signature=07536ac4091cc36e18f49623fb2825f2dae5fe80bfca7d4d1c0441ad2efe26ff",
           "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI5LzQvOTQxOWNhZDM0YTFlMjljYzZkMTliNWQzNTJmOTJjMzUuanBnIn0=?signature=98bac4af0853adb1b38b1fcc475b7a7f74451484fc3bd6948b48994668dcb234",
@@ -1090,7 +1089,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1670497424000,
+        "publishDate": 1670501035000,
         "price": "€195,000",
         "abbreviatedPrice": "€195k",
         "numBedrooms": "3 Bed",
@@ -2149,7 +2148,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1670497425000,
+        "publishDate": 1670501035000,
         "price": "€265,000",
         "abbreviatedPrice": "€265k",
         "numBedrooms": "3 Bed",
@@ -3392,9 +3391,9 @@
         "platform": "WEB",
         "floorArea": {
           "unit": "ACRES",
-          "value": "0.04"
+          "value": "0.07"
         },
-        "propertySize": "0.04 ac",
+        "propertySize": "0.07 ac",
         "point": {
           "type": "Point",
           "coordinates": [
@@ -4615,7 +4614,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1670497425000,
+        "publishDate": 1670501035000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "2 Bed",
@@ -5933,7 +5932,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 292,
+    "totalResults": 291,
     "pageSize": 50
   },
   "dfpTargetingValues": {
