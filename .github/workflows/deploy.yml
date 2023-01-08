@@ -16,7 +16,7 @@ jobs:
           run: |
             pip install datasette
             datasette install git-history
-        - run: ls -al
+        - run: git-history
         - name: Create database
           run: |
             git-history file listings.db galway_listings.json --id id --namespace listing --import datetime --import re --convert '
