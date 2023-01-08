@@ -11,7 +11,8 @@ jobs:
         - uses: superfly/flyctl-actions/setup-flyctl@master
         - run: pip install datasette
         - run: datasette install git-history
-        - run: git-history file listings.db galway_listings.json --id id --namespace listing --import datetime --import re --convert '
+        - run: |
+          git-history file listings.db galway_listings.json --id id --namespace listing --import datetime --import re --convert '
             from datetime import datetime
 
             for listing in json.loads(content)["listings"]:
