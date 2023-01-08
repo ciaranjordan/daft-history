@@ -17,7 +17,7 @@ jobs:
         - name: Install dependencies
           run: |
             pip install datasette
-            datasette install git-history
+            datasette install git-history datasette-publish-fly
         - name: Create database
           run: |
             git-history file listings.db galway_listings.json --id id --namespace listing --import datetime --import re --convert '
@@ -29,3 +29,5 @@ jobs:
                 listing["listing"]["numericPrice"] = re.sub("[^0-9]", "", listing["listing"]["price"])
                 yield listing["listing"]
             '
+        - name: Publish to fly.io
+          run: datasette publish fly listings.db --app="daft-history" --install datasette-cluster-map
