@@ -15,7 +15,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1673888477000,
+        "publishDate": 1673944178000,
         "price": "€200,000",
         "abbreviatedPrice": "€200k",
         "numBedrooms": "2 Bed",
@@ -1426,9 +1426,10 @@
         "saleType": [
           "For Sale"
         ],
-        "featuredLevel": "STANDARD",
-        "featuredLevelFull": "STANDARD",
-        "publishDate": 1673376843000,
+        "featuredLevel": "FEATURED",
+        "featuredLevelFull": "PREMIER_PARTNER_FEATURED",
+        "sticker": "Viewing Advised",
+        "publishDate": 1673913600000,
         "price": "€395,000",
         "abbreviatedPrice": "€395k",
         "numBedrooms": "3 Bed",
@@ -1537,7 +1538,7 @@
           "offersCount": 1,
           "status": "CLOSED"
         },
-        "premierPartner": false
+        "premierPartner": true
       },
       "savedAd": false
     },
