@@ -25,8 +25,10 @@
         "daftShortcode": "114939238",
         "seller": {
           "sellerId": 1965,
-          "name": "Kyle O'Brien",
+          "name": "Kyle O'Brien  MIPAV, MMCEPI",
           "phone": "091 565261",
+          "alternativePhone": "087 7811149",
+          "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYS81YWI2N2I3NTNkMTkxM2NjOTFkOTM2NzUzMjUxNzY5YS5wbmcifQ==?signature=0e0d936506e5beaa6b321c7fd1f2bc86e0df072ad806128ae56ccd5523d1d981",
           "branch": "DNG Maxwell Heaslip & Leonard",
           "address": "11 Francis Street,\r\nGalway",
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNS8yLzUyMGI0YThjNTRmMDliM2UxOGJkYTQ0MzRkNzdkNzM1X3N0YW5kYXJkLnBuZyJ9?signature=651c1daca26ee619d9e31afe4c52619e49d89bc4d39f240a3c000b89196ae919",
@@ -182,6 +184,18 @@
           "hasBrochure": false
         },
         "platform": "FEEDS",
+        "openViewings": {
+          "summary": "Open from Jan 21st",
+          "details": [
+            {
+              "day": "Sat, 21/01",
+              "startTime": "14:00",
+              "endTime": "15:00",
+              "rawStartTime": 1674309600000,
+              "rawEndTime": 1674313200000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -221,7 +235,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674101008000,
+        "publishDate": 1674118995000,
         "price": "€370,000",
         "abbreviatedPrice": "€370k",
         "numBedrooms": "4 Bed",
@@ -588,7 +602,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674101007000,
+        "publishDate": 1674118993000,
         "price": "€439,000",
         "abbreviatedPrice": "€439k",
         "numBedrooms": "3 Bed",
@@ -1184,7 +1198,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674101008000,
+        "publishDate": 1674118995000,
         "price": "€430,000",
         "abbreviatedPrice": "€430k",
         "numBedrooms": "4 Bed",
@@ -4295,7 +4309,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674034657000,
+        "publishDate": 1674119660000,
         "price": "€315,000",
         "abbreviatedPrice": "€315k",
         "numBedrooms": "3 Bed",
@@ -5204,7 +5218,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674101008000,
+        "publishDate": 1674118995000,
         "price": "€535,000",
         "abbreviatedPrice": "€535k",
         "numBedrooms": "5 Bed",
