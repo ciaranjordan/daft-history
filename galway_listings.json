@@ -417,7 +417,7 @@
           ],
           "totalImages": 12,
           "hasVideo": false,
-          "hasVirtualTour": false,
+          "hasVirtualTour": true,
           "hasBrochure": false
         },
         "ber": {
@@ -2421,7 +2421,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674576294000,
+        "publishDate": 1674579894000,
         "price": "€370,000",
         "abbreviatedPrice": "€370k",
         "numBedrooms": "4 Bed",
@@ -2788,7 +2788,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674576293000,
+        "publishDate": 1674579892000,
         "price": "€439,000",
         "abbreviatedPrice": "€439k",
         "numBedrooms": "3 Bed",
@@ -3375,7 +3375,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674576294000,
+        "publishDate": 1674579894000,
         "price": "€430,000",
         "abbreviatedPrice": "€430k",
         "numBedrooms": "4 Bed",
@@ -5996,7 +5996,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 263,
+    "totalResults": 262,
     "pageSize": 50
   },
   "dfpTargetingValues": {
