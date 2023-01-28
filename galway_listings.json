@@ -858,7 +858,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674903791000,
+        "publishDate": 1674907393000,
         "price": "€220,000",
         "abbreviatedPrice": "€220k",
         "numBedrooms": "2 Bed",
@@ -3166,18 +3166,6 @@
           "value": "118"
         },
         "propertySize": "118 m²",
-        "openViewings": {
-          "summary": "Open from Jan 28th",
-          "details": [
-            {
-              "day": "Sat, 28/01",
-              "startTime": "11:00",
-              "endTime": "11:30",
-              "rawStartTime": 1674903600000,
-              "rawEndTime": 1674905400000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -3604,7 +3592,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674903794000,
+        "publishDate": 1674907395000,
         "price": "€370,000",
         "abbreviatedPrice": "€370k",
         "numBedrooms": "4 Bed",
@@ -3971,7 +3959,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674903792000,
+        "publishDate": 1674907393000,
         "price": "€439,000",
         "abbreviatedPrice": "€439k",
         "numBedrooms": "3 Bed",
@@ -4303,18 +4291,6 @@
           "value": "95"
         },
         "propertySize": "95 m²",
-        "openViewings": {
-          "summary": "Open from Jan 28th",
-          "details": [
-            {
-              "day": "Sat, 28/01",
-              "startTime": "11:15",
-              "endTime": "11:45",
-              "rawStartTime": 1674904500000,
-              "rawEndTime": 1674906300000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -4570,7 +4546,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1674903794000,
+        "publishDate": 1674907395000,
         "price": "€430,000",
         "abbreviatedPrice": "€430k",
         "numBedrooms": "4 Bed",
@@ -4895,14 +4871,14 @@
         },
         "propertySize": "85 m²",
         "openViewings": {
-          "summary": "Open from Jan 28th",
+          "summary": "Open from Feb 1st",
           "details": [
             {
-              "day": "Sat, 28/01",
+              "day": "Wed, 01/02",
               "startTime": "11:00",
               "endTime": "12:00",
-              "rawStartTime": 1674903600000,
-              "rawEndTime": 1674907200000
+              "rawStartTime": 1675249200000,
+              "rawEndTime": 1675252800000
             }
           ]
         },
