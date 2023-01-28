@@ -1954,18 +1954,6 @@
           "value": "116"
         },
         "propertySize": "116 m²",
-        "openViewings": {
-          "summary": "Open from Jan 28th",
-          "details": [
-            {
-              "day": "Sat, 28/01",
-              "startTime": "15:30",
-              "endTime": "16:00",
-              "rawStartTime": 1674919800000,
-              "rawEndTime": 1674921600000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -2448,14 +2436,14 @@
         },
         "propertySize": "96 m²",
         "openViewings": {
-          "summary": "Open from Jan 28th",
+          "summary": "Open from Feb 1st",
           "details": [
             {
-              "day": "Sat, 28/01",
+              "day": "Wed, 01/02",
               "startTime": "15:30",
               "endTime": "16:30",
-              "rawStartTime": 1674919800000,
-              "rawEndTime": 1674923400000
+              "rawStartTime": 1675265400000,
+              "rawEndTime": 1675269000000
             }
           ]
         },
