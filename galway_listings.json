@@ -2372,9 +2372,10 @@
         "offers": {
           "awaitingBidders": 0,
           "bookingDeposit": 7000,
+          "highestOffer": "€200,000",
           "minimumIncrement": 1000,
           "minimumOfferAmount": 200000,
-          "offersCount": 0,
+          "offersCount": 1,
           "status": "OPENED"
         },
         "premierPartner": false
