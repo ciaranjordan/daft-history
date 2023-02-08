@@ -2621,10 +2621,10 @@
         "offers": {
           "awaitingBidders": 3,
           "bookingDeposit": 5000,
-          "highestOffer": "€249,000",
+          "highestOffer": "€252,000",
           "minimumIncrement": 1000,
           "minimumOfferAmount": 235000,
-          "offersCount": 5,
+          "offersCount": 6,
           "status": "OPENED"
         },
         "premierPartner": true
@@ -6251,7 +6251,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 259,
+    "totalResults": 260,
     "pageSize": 50
   },
   "dfpTargetingValues": {
