@@ -140,6 +140,7 @@
         "price": "€550,000",
         "abbreviatedPrice": "€550k",
         "numBedrooms": "3 Bed",
+        "numBathrooms": "1 Bath",
         "propertyType": "Semi-D",
         "daftShortcode": "115174922",
         "seller": {
@@ -163,14 +164,14 @@
         "media": {
           "images": [
             {
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=80dc42e358880f64461d6680eceed0c5edcd11f5aced5ab72e5ce6e9f819020f",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2QvN2QzZjMxYzk0MjY3MGFkMTljNGMzYjYzNDhlNDA2NmQucG5nIn0=?signature=99cc830c3d6358a1ec74389d9989627f7d7e84be4b0acaf46b3f3e593f19f4ab",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=ce294b8c74a10e392c93462dbd1c879844eae0be334587754d40d77f956f133e",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=fb9755257df28f4c989a2d00a1df0cd3897c92acba4a785d68f0f33a735f69e5",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=7c30455b3ec0fcb33adbd54502c607532082c61fed6f61dc1a80267be008ee14",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=502c0ecad00846e1f72e2d1e194e630095771789edc4af4eeb34225e5a4d6375",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2QvN2QzZjMxYzk0MjY3MGFkMTljNGMzYjYzNDhlNDA2NmQucG5nIn0=?signature=86d937ffdd566c6035f370becae1db84b7346a3fbe0f6b8ccae085892c46ff13",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDNmMzFjOTQyNjcwYWQxOWM0YzNiNjM0OGU0MDY2ZC5wbmcifQ==?signature=291f802627a087384d5475be7e77a88ed32f44071bf3f7fdeb2b92e1be7ba6c0"
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=24ff5c26200dde2c5417a0e67c69c3392e1fc9349a39fe593b35e7e1610d8457",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI2LzgvNjg2MGNlNjM3MzNiMzUyNzY4OWNjNDBmODY0MjJiMzMuanBnIn0=?signature=be3cfbc0c187957c46e2627507a2909d12e3018994fdc85b430ab8a795ff6aec",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=f1890025342b94d5d35d9d3dcb178b92817645ac519166713d3d7fc8dc431f0b",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=3ea427dcd46c5d9198e2e64be99f691251a68716d8b846163982101331332bef",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=6973d5e4dada57b5b3bc1bfc75bd899b3039720bb6de14b628d0258263e650c0",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=75705458246f9d789e1a1e19a25724b157b8b2f6b2c57f9ac1cfaec7b28d1acd",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI2LzgvNjg2MGNlNjM3MzNiMzUyNzY4OWNjNDBmODY0MjJiMzMuanBnIn0=?signature=24f79431351298d9294ee555134fc943153775d7418d096f5590dbce4d439bd2",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOC82ODYwY2U2MzczM2IzNTI3Njg5Y2M0MGY4NjQyMmIzMy5qcGcifQ==?signature=5a658c98377d20e308e3c8b9ff0c57a9e6321af95fb8dcca2e39661106ec370d"
             },
             {
               "caption": "Picture No. 02",
@@ -1195,7 +1196,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675872297000,
+        "publishDate": 1675875887000,
         "price": "€650,000",
         "abbreviatedPrice": "€650k",
         "numBedrooms": "4 Bed",
@@ -2168,7 +2169,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675872297000,
+        "publishDate": 1675875887000,
         "price": "€1,175,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -5798,7 +5799,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675872299000,
+        "publishDate": 1675875890000,
         "price": "€370,000",
         "abbreviatedPrice": "€370k",
         "numBedrooms": "4 Bed",
@@ -6165,7 +6166,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675872298000,
+        "publishDate": 1675875888000,
         "price": "€439,000",
         "abbreviatedPrice": "€439k",
         "numBedrooms": "3 Bed",
@@ -6282,7 +6283,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 259,
+    "totalResults": 258,
     "pageSize": 50
   },
   "dfpTargetingValues": {
