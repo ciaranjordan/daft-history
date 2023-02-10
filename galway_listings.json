@@ -112,6 +112,14 @@
         },
         "category": "Buy",
         "state": "PUBLISHED",
+        "offers": {
+          "awaitingBidders": 0,
+          "bookingDeposit": 5000,
+          "minimumIncrement": 5000,
+          "minimumOfferAmount": 330000,
+          "offersCount": 0,
+          "status": "OPENED"
+        },
         "premierPartner": true
       },
       "savedAd": false
