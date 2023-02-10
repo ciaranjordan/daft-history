@@ -497,9 +497,10 @@
         "offers": {
           "awaitingBidders": 2,
           "bookingDeposit": 5000,
+          "highestOffer": "€330,000",
           "minimumIncrement": 5000,
           "minimumOfferAmount": 330000,
-          "offersCount": 0,
+          "offersCount": 1,
           "status": "OPENED"
         },
         "premierPartner": true
@@ -2527,7 +2528,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676034265000,
+        "publishDate": 1676037872000,
         "price": "€650,000",
         "abbreviatedPrice": "€650k",
         "numBedrooms": "4 Bed",
@@ -3500,7 +3501,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676034265000,
+        "publishDate": 1676037872000,
         "price": "€1,175,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -6258,7 +6259,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 265,
+    "totalResults": 264,
     "pageSize": 50
   },
   "dfpTargetingValues": {
