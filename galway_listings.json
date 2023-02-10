@@ -85,7 +85,7 @@
               "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvMi83MjQ5MjY5YTJjNjI4M2ZhYTBlYjQwMDA3MzJiMzBkYy5qcGcifQ==?signature=85d954bc0495628c78fcfb1902b74a1f5d3e53d9659b63f4058dc740bdbc3629"
             }
           ],
-          "totalImages": 31,
+          "totalImages": 32,
           "hasVideo": false,
           "hasVirtualTour": false,
           "hasBrochure": false
@@ -101,6 +101,18 @@
           "value": "306"
         },
         "propertySize": "306 m²",
+        "openViewings": {
+          "summary": "Open from Feb 11th",
+          "details": [
+            {
+              "day": "Sat, 11/02",
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "rawStartTime": 1676116800000,
+              "rawEndTime": 1676120400000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -2150,7 +2162,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676023392000,
+        "publishDate": 1676027014000,
         "price": "€650,000",
         "abbreviatedPrice": "€650k",
         "numBedrooms": "4 Bed",
@@ -2650,7 +2662,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675855465000,
+        "publishDate": 1676025837000,
         "price": "€220,000",
         "abbreviatedPrice": "€220k",
         "numBedrooms": "2 Bed",
@@ -3123,7 +3135,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676023392000,
+        "publishDate": 1676027013000,
         "price": "€1,175,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -3984,7 +3996,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675940773000,
+        "publishDate": 1676027143000,
         "price": "€238,000",
         "abbreviatedPrice": "€238k",
         "numBedrooms": "3 Bed",
@@ -5282,7 +5294,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675855481000,
+        "publishDate": 1676026084000,
         "price": "€500,000",
         "abbreviatedPrice": "€500k",
         "numBedrooms": "4 Bed",
@@ -6128,7 +6140,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1675855486000,
+        "publishDate": 1676026380000,
         "price": "€210,000",
         "abbreviatedPrice": "€210k",
         "numBedrooms": "2 Bed",
