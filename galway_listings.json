@@ -2,6 +2,115 @@
   "listings": [
     {
       "listing": {
+        "id": 4626154,
+        "title": "203 Cartúr Mór, Clybaun Road, Knocknacarra, Co. Galway",
+        "seoTitle": "203 Cartúr Mór, Clybaun Road, Knocknacarra, Co. Galway",
+        "sections": [
+          "Property",
+          "Residential",
+          "House",
+          "Semi-Detached House"
+        ],
+        "saleType": [
+          "For Sale"
+        ],
+        "featuredLevel": "STANDARD",
+        "featuredLevelFull": "STANDARD",
+        "publishDate": 1676457649000,
+        "price": "€350,000",
+        "abbreviatedPrice": "€350k",
+        "numBedrooms": "4 Bed",
+        "numBathrooms": "3 Bath",
+        "propertyType": "Semi-D",
+        "daftShortcode": "115248576",
+        "seller": {
+          "sellerId": 3076,
+          "name": "Martin O'Connor",
+          "phone": "091 866708",
+          "phoneWhenToCall": "Monday-Friday 9am-5pm",
+          "branch": "DNG Martin O'Connor",
+          "address": "Main Street\r\nMoycullen\r\nCo Galway",
+          "licenceNumber": "003607",
+          "sellerType": "UNBRANDED_AGENT",
+          "showContactForm": true,
+          "premierPartnerSeller": false
+        },
+        "dateOfConstruction": "NA",
+        "media": {
+          "images": [
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=b9fb7bc18e4c1d8ca3d2e2bd96e2c90d9b4ac3b5dd6627e2aa6157caa77655c7",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlL2QvZWRkMjgyNWZhZjFiM2IyMjM1OTA1NzhjMWIzMTExODguanBnIn0=?signature=18a260a25d237ea0972f7c7f9d154acf31107676d4290365f198593fa3a28c85",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=1eb6ac6989016589ef5414bf21e6719948dfa780fc5b782a4620588ed168bcf0",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=3aa2fde0839bc94f2eb75c1136f86e8c7c807d53acb14a480fa937e2cfc1c757",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=605e2d1a53c2861da721b5ac7fc1e8c63c77898eafec2dddeb7fa48f5430a13d",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=c1bd1684278823244e166b8a5e2fb19785ceb9b3f67fe39d40dcbb4d36f9314b",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJlL2QvZWRkMjgyNWZhZjFiM2IyMjM1OTA1NzhjMWIzMTExODguanBnIn0=?signature=fb563993a49250784522c16cac732062c0270d376651ca6809c0b7821af37c8e",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImUvZC9lZGQyODI1ZmFmMWIzYjIyMzU5MDU3OGMxYjMxMTE4OC5qcGcifQ==?signature=5364b6ed02c74299f7bad44ef2a01fbc39c7409adac9303ac5a7d4b2322d4640"
+            },
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=c733e03b0621278e0dd3f75ff0e3cc1ab8696e0b5ee80656d3f081d654ae22ad",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxLzUvMTUzYTc1ZWMwNThiODBjYzNmMTA4YzY4ZDA4NzZmNmIuanBnIn0=?signature=012f0b96b91dc639fe223b46d3bb7bfc488a7fa2e3570802d1ac44c826930338",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=50d6a8da142909aebd53eb71285f643bf9e9a1be7a1145b4e710dc88592e6d01",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=803cace5750c0d4a44f812b7cf1ff675eae56e6013e9ace99059a000d7f3be5c",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=2c94d9045cb2954082e09a3b1100af4bd18947eec73e4c5067cd6e8798a47b07",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=ead1a705b1578789acf0670bd3d5f436036ce156effb817599c72707e10e20a1",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxLzUvMTUzYTc1ZWMwNThiODBjYzNmMTA4YzY4ZDA4NzZmNmIuanBnIn0=?signature=1d756bb5bc9147fde9032a3237660e067a7b63ce5827c43913607f4bca6b6a4d",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNS8xNTNhNzVlYzA1OGI4MGNjM2YxMDhjNjhkMDg3NmY2Yi5qcGcifQ==?signature=dfb721be2d835c3046e30be91f265105949102f9e88b39e30696151935a09b74"
+            },
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=2524da180f338c830d74c3835b234723059f29fe475b493e89968ec479b112b9",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxLzQvMTQwZjE0ZDAzZDQzZDFhZGU5ODBkYjMwZTM0YTk0OTcuanBnIn0=?signature=8739ec4c3c86333e6c6204090c9812987051a65a03a1ce6e5c1432e223bb312d",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=f9673f00a35b8c6c5da0e7904c73ced7087cf4201eb7619c050d8ba2730059f2",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=9dca2fcff4e7f19fb65ff32d6a384dd72f99c274dc21cb9338ed451652695f32",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=118d6eeeb9d6d4ccbae914edf82c90ab8cc6467aef54302a2e6a44bf5f723be1",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=0a9cb51dd2a692fde9ea287b247baa75430d1399cb3acddb834292b45a6de643",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIxLzQvMTQwZjE0ZDAzZDQzZDFhZGU5ODBkYjMwZTM0YTk0OTcuanBnIn0=?signature=1dc81d2a0be22bd47aa3c1c6bf3504e3c01b8e6ff084e1d25769c039e5caa135",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjEvNC8xNDBmMTRkMDNkNDNkMWFkZTk4MGRiMzBlMzRhOTQ5Ny5qcGcifQ==?signature=8f732c7aacd658d500608eb7fcba62fae4bf14cb1b6d1e05831af559ea016d76"
+            },
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=2e06ae7e4630ddf5e1137fd48eb20090f5c2a6b20fe379bd96e54d400ad2f0ea",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1L2IvNWI1MDA0NjYwZGIwMzViY2Q3NzVmMWIzMjM2ZjViNWUuanBnIn0=?signature=de33a94cf40c93f34e2ce4302af50b1ad69a7e884e982b0b109bd8fd74fadcfe",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=28cbfdd4d4bba9f03ad093c0e87f7e25399be89cac73e9b8fe61d6b97c092c59",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=b7fa37d70b27a02b02db79e201d2d84141197e090740b4ca21856996da4a0292",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=8935f4180dda442b5972d0e6cda3ed3e0b84b20a40b9b826d734cd3ffa5fd9f9",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=e13d2c1fa85d3ed1777141ec3cfa52b338d36309353c2f52f0ab7cc2aea98c3d",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1L2IvNWI1MDA0NjYwZGIwMzViY2Q3NzVmMWIzMjM2ZjViNWUuanBnIn0=?signature=617c0e7aa7b958c0abaa0eed2c49a9b04cac14c07cac61736f9aef86200e4cba",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjUwMDQ2NjBkYjAzNWJjZDc3NWYxYjMyMzZmNWI1ZS5qcGcifQ==?signature=53bcfb7b0331d42c08b1e3db2f4c139d0e7f91129c8648f75b97a6e9eb32d719"
+            }
+          ],
+          "totalImages": 19,
+          "hasVideo": false,
+          "hasVirtualTour": true,
+          "hasBrochure": false
+        },
+        "ber": {
+          "rating": "C3",
+          "code": "116141573",
+          "epi": "209.03 kWh/m2/yr"
+        },
+        "platform": "WEB",
+        "floorArea": {
+          "unit": "METRES_SQUARED",
+          "value": "109"
+        },
+        "propertySize": "109 m²",
+        "point": {
+          "type": "Point",
+          "coordinates": [
+            -9.105728,
+            53.274254
+          ]
+        },
+        "seoFriendlyPath": "/for-sale/semi-detached-house-203-cart-r-m-r-clybaun-road-knocknacarra-co-galway/4626154",
+        "category": "Buy",
+        "state": "PUBLISHED",
+        "premierPartner": false
+      },
+      "savedAd": false
+    },
+    {
+      "listing": {
         "id": 4626549,
         "title": "Site at 1 Grattan Road, Claddagh, Co. Galway",
         "seoTitle": "Site at 1 Grattan Road, Claddagh, Co. Galway",
@@ -131,7 +240,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676394013000,
+        "publishDate": 1676458915000,
         "price": "€150,000",
         "abbreviatedPrice": "€150k",
         "propertyType": "Site",
@@ -572,7 +681,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676455406000,
+        "publishDate": 1676459019000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
@@ -2743,7 +2852,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676368908000,
+        "publishDate": 1676458926000,
         "price": "AMV: €155,000",
         "abbreviatedPrice": "€155k",
         "numBedrooms": "3 Bed",
@@ -3418,7 +3527,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676455404000,
+        "publishDate": 1676459017000,
         "price": "€650,000",
         "abbreviatedPrice": "€650k",
         "numBedrooms": "4 Bed",
@@ -4379,7 +4488,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676455404000,
+        "publishDate": 1676459017000,
         "price": "€1,175,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -5250,7 +5359,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676372749000,
+        "publishDate": 1676459138000,
         "price": "€238,000",
         "abbreviatedPrice": "€238k",
         "numBedrooms": "3 Bed",
@@ -6063,129 +6172,6 @@
         "premierPartner": false
       },
       "savedAd": false
-    },
-    {
-      "listing": {
-        "id": 4599615,
-        "title": "2A The Cobblestones, Eyre Street, Galway City, Co. Galway",
-        "seoTitle": "2A The Cobblestones, Eyre Street, Galway City, Co. Galway",
-        "sections": [
-          "Property",
-          "Residential",
-          "Apartment"
-        ],
-        "saleType": [
-          "For Sale"
-        ],
-        "featuredLevel": "STANDARD",
-        "featuredLevelFull": "STANDARD",
-        "publishDate": 1676455491000,
-        "price": "AMV: €220,000",
-        "abbreviatedPrice": "€220k",
-        "numBedrooms": "2 Bed",
-        "numBathrooms": "1 Bath",
-        "propertyType": "Apartment",
-        "daftShortcode": "114997176",
-        "seller": {
-          "sellerId": 3765,
-          "name": "Siobhra Hennessy",
-          "phone": "091 564 212",
-          "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzM2ZmM5ZDIxN2Y2Y2M4YTMxMTZiN2M5MmUyMDgyOS5qcGcifQ==?signature=e77bf1cb4b4a2835861c98575f5a58928b00c76fe2686e02e6c3b648a1f2ba61",
-          "branch": "O'Donnellan & Joyce",
-          "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiZS80L2U0NjU2MmVkZjIzYjlhYWM2M2I4OTc0OThhMTJkY2I0X3N0YW5kYXJkLnBuZyJ9?signature=55fbb39b21953394d9875274f9646a21319d248713b46afb6afa846b8b601023",
-          "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2YvYWZhMTVjZjJjMzE3ZTRmNGVjM2MxY2FlNDg4YmU5ODkuanBnIn0=?signature=6d931ee43c57b7bff41e4263b0dd86ff08e05cfe502ffa5f7c7ca7e346d9fb81",
-          "backgroundColour": "#ed1b23",
-          "licenceNumber": "001955",
-          "sellerType": "BRANDED_AGENT",
-          "showContactForm": true,
-          "premierPartnerSeller": false
-        },
-        "dateOfConstruction": "1992",
-        "media": {
-          "images": [
-            {
-              "caption": "Picture No. 01",
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=4466db5a9e8825751bfbe1f4e7a0974c8db484afb7b5e03ca1b34aec7784236c",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0LzQvNDRmMDdjMzUxYTU2MGNiYjdjY2RhNGYwZGJjMjVmYzcuanBnIn0=?signature=498c27e00b053963f9f09a2d4e51a156a527d61b1bfc6e6f441845a69a8a96e0",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=493f022a1e03444f86c2763375be9c093e71b281b4d713998ba8ee30bb165bbf",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=bcd497d75bf0f7fb6b5811a0eb4c4a6de27d4a72d296901bd35484616d1bab42",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=9861196ec8d45dd29f2eacffeb5e9a3fd13f3215f1c5c153b603716e25af6eca",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=129008d1988d0e717c872f20ac8c2ae7f81cc58e43eba0803e3b3d250c528b8f",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0LzQvNDRmMDdjMzUxYTU2MGNiYjdjY2RhNGYwZGJjMjVmYzcuanBnIn0=?signature=9268c39f6e49995c493b974731c52577a1bcded56134948a353bac115b838c74",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjQvNC80NGYwN2MzNTFhNTYwY2JiN2NjZGE0ZjBkYmMyNWZjNy5qcGcifQ==?signature=f27aa863b3670d754ed9e37338c398259b3c91fd778db2c102c3e8508b7b9e9b"
-            },
-            {
-              "caption": "Picture No. 03",
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=e68355b0c96972e8c05fd8f3ae17179ca66b5554e89e2a6f8facfa8444145541",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2MvN2M3NDQzOTU1ZjZkY2RjOTcwMWRiYTMxMzQ3OGI5OTAuanBnIn0=?signature=05a9a5dcd7135e3a77a2afd62aaba245bd5d15ddd5dee3dfed70f8ffe83cdcf4",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=49bd0b3151d96f8d963d64e3af784b97a2bdf12bd274b315fc2ae86415b7fc9c",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=f31e2e417314d9acb05d69bfb0b18c54c53c3ec516a5b782ca3821af4e480279",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=5676825f583650415db9f3371b30b44fc853131b1f2c2ddd77e94d68f4b42170",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=0b35764a0e8fbc3a79f4e98ef13834288420cb2b6433c31e7f2ee395fe6cb583",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2MvN2M3NDQzOTU1ZjZkY2RjOTcwMWRiYTMxMzQ3OGI5OTAuanBnIn0=?signature=68d20dd5a5a202f30cba3e4909fd87c0b1933d0cf88b492658f831ea8d885ad7",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvYy83Yzc0NDM5NTVmNmRjZGM5NzAxZGJhMzEzNDc4Yjk5MC5qcGcifQ==?signature=b7cdfa52d912a5728c140f3e54f88f913435b917b46f0cdadf2aa583267d46f5"
-            },
-            {
-              "caption": "Picture No. 05",
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=f99264294166a3a7a29b53f5e0eeda73a84000335286b860173d2c5b63113213",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2MvYWMyZjVhYWMzMzRjMDU0ZDAxYzMyMTQzMGVkNjY3NzkuanBnIn0=?signature=2c2708ae051a7246910d749d2df220787f34b61c220deb70c3e29098acec1b69",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=585fddf341894c30671887131bc7fe6599ff56aa5e25792d11f2d9e4b0d62402",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=5d273165932b2244a0cda76b1319d04e47b0b02ea19e10124549107da572aef4",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=733c5818ac878b2679f0183f806b8a1a3b037491a871f86c4e98a714840eb414",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=2dd5763582699c52b33383f83b201fbdc57ad8200c263f0a4e7937dda90deb86",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2MvYWMyZjVhYWMzMzRjMDU0ZDAxYzMyMTQzMGVkNjY3NzkuanBnIn0=?signature=fd4f238a743b4259fdf05e98c657f3cf2f2cab8586657034c9fed6f4ed021685",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImEvYy9hYzJmNWFhYzMzNGMwNTRkMDFjMzIxNDMwZWQ2Njc3OS5qcGcifQ==?signature=3c0e1b4649fa6e26db373b7601e5a1ed26ec7bb689380a71fc75491ccbdbda97"
-            },
-            {
-              "caption": "Picture No. 06",
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=2ba39c453efc5de16c82b1a24520dea56f6244c353c9d525fb394cbe82957976",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJmLzUvZjUyYzkxYTU2ZWU5Mjk2NWQ2MjI0YjY5MTk0OTdmYTkuanBnIn0=?signature=1d3dce2fcd6062d134666d1f15c11341fa5bbec9db3528ee02872c1915a1a53e",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=18082aff44bd31a8d87c1ec871b6077a39ace03b4678ad40d53564900642bd60",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=2443401514eef0ce435fa501cd1a826c94046ce034e6ac6cf2c172797e69358b",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=3853e21430ea51aed3215510a31b7bc439e80ceae58bc702a0e493ae68fbb405",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=180a7608f314fd0d8f348fe48008ad4180746ab20b05667201398a9edf7d1425",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJmLzUvZjUyYzkxYTU2ZWU5Mjk2NWQ2MjI0YjY5MTk0OTdmYTkuanBnIn0=?signature=06de3a226783e7dca8e90735f0f1412d1bac7c4c0cd41623102dc81d11e13582",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImYvNS9mNTJjOTFhNTZlZTkyOTY1ZDYyMjRiNjkxOTQ5N2ZhOS5qcGcifQ==?signature=009b5a8610bed1f7dccef5a50ac31559b036c25b2467bd2c62afc4d97c7d13ec"
-            }
-          ],
-          "totalImages": 6,
-          "hasVideo": false,
-          "hasVirtualTour": false,
-          "hasBrochure": false
-        },
-        "ber": {
-          "rating": "E1",
-          "code": "102905510",
-          "epi": "335.82 kWh/m2/yr"
-        },
-        "platform": "FEEDS",
-        "floorArea": {
-          "unit": "METRES_SQUARED",
-          "value": "61"
-        },
-        "propertySize": "61 m²",
-        "point": {
-          "type": "Point",
-          "coordinates": [
-            -9.051813,
-            53.275595
-          ]
-        },
-        "seoFriendlyPath": "/for-sale/apartment-2a-the-cobblestones-eyre-street-galway-city-co-galway/4599615",
-        "pageBranding": {
-          "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiZS80L2U0NjU2MmVkZjIzYjlhYWM2M2I4OTc0OThhMTJkY2I0X3N0YW5kYXJkLnBuZyJ9?signature=55fbb39b21953394d9875274f9646a21319d248713b46afb6afa846b8b601023",
-          "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2YvYWZhMTVjZjJjMzE3ZTRmNGVjM2MxY2FlNDg4YmU5ODkuanBnIn0=?signature=6d931ee43c57b7bff41e4263b0dd86ff08e05cfe502ffa5f7c7ca7e346d9fb81",
-          "backgroundColour": "#ed1b23",
-          "squareLogos": [
-            "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJhL2YvYWZhMTVjZjJjMzE3ZTRmNGVjM2MxY2FlNDg4YmU5ODkuanBnIn0=?signature=6d931ee43c57b7bff41e4263b0dd86ff08e05cfe502ffa5f7c7ca7e346d9fb81"
-          ],
-          "rectangleLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiZS80L2U0NjU2MmVkZjIzYjlhYWM2M2I4OTc0OThhMTJkY2I0X3N0YW5kYXJkLnBuZyJ9?signature=55fbb39b21953394d9875274f9646a21319d248713b46afb6afa846b8b601023"
-        },
-        "category": "Buy",
-        "state": "PUBLISHED",
-        "premierPartner": false
-      },
-      "savedAd": false
     }
   ],
   "showcaseListings": [],
@@ -6196,7 +6182,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 261,
+    "totalResults": 262,
     "pageSize": 50
   },
   "dfpTargetingValues": {
