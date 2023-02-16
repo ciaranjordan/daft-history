@@ -1384,7 +1384,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676545428000,
+        "publishDate": 1676549051000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
@@ -4230,7 +4230,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676545427000,
+        "publishDate": 1676549049000,
         "price": "€650,000",
         "abbreviatedPrice": "€650k",
         "numBedrooms": "4 Bed",
@@ -5067,7 +5067,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1676545426000,
+        "publishDate": 1676549049000,
         "price": "€1,175,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -5753,18 +5753,6 @@
           "code": "256414789"
         },
         "platform": "WEB",
-        "openViewings": {
-          "summary": "Open from Feb 16th",
-          "details": [
-            {
-              "day": "Thu, 16/02",
-              "startTime": "12:00",
-              "endTime": "12:30",
-              "rawStartTime": 1676548800000,
-              "rawEndTime": 1676550600000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -6210,7 +6198,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 264,
+    "totalResults": 263,
     "pageSize": 50
   },
   "dfpTargetingValues": {
