@@ -684,7 +684,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677258280000,
+        "publishDate": 1677261853000,
         "price": "€300,000",
         "abbreviatedPrice": "€300k",
         "numBedrooms": "3 Bed",
@@ -1147,6 +1147,14 @@
         },
         "category": "Buy",
         "state": "PUBLISHED",
+        "offers": {
+          "awaitingBidders": 0,
+          "bookingDeposit": 5000,
+          "minimumIncrement": 1000,
+          "minimumOfferAmount": 265000,
+          "offersCount": 0,
+          "status": "OPENED"
+        },
         "premierPartner": true
       },
       "savedAd": false
@@ -2235,7 +2243,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677258280000,
+        "publishDate": 1677261853000,
         "price": "€325,000",
         "abbreviatedPrice": "€325k",
         "numBedrooms": "3 Bed",
@@ -2838,7 +2846,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677258279000,
+        "publishDate": 1677261851000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "3 Bed",
@@ -4117,7 +4125,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677258280000,
+        "publishDate": 1677261853000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
@@ -5896,7 +5904,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 264,
+    "totalResults": 263,
     "pageSize": 50
   },
   "dfpTargetingValues": {
