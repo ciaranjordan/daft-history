@@ -359,6 +359,11 @@
           "epi": "203.6 kWh/m2/yr"
         },
         "platform": "FEEDS",
+        "floorArea": {
+          "unit": "METRES_SQUARED",
+          "value": "63"
+        },
+        "propertySize": "63 m²",
         "point": {
           "type": "Point",
           "coordinates": [
@@ -2084,14 +2089,16 @@
           "hasBrochure": false
         },
         "ber": {
-          "rating": "C3"
+          "rating": "C2",
+          "code": "116240433",
+          "epi": "183.96 kWh/m2/yr"
         },
         "platform": "FEEDS",
         "floorArea": {
           "unit": "METRES_SQUARED",
-          "value": "54"
+          "value": "53"
         },
-        "propertySize": "54 m²",
+        "propertySize": "53 m²",
         "point": {
           "type": "Point",
           "coordinates": [
@@ -5911,7 +5918,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 254,
+    "totalResults": 253,
     "pageSize": 50
   },
   "dfpTargetingValues": {
