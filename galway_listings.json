@@ -99,6 +99,18 @@
           "value": "92"
         },
         "propertySize": "92 m²",
+        "openViewings": {
+          "summary": "Open from Mar 4th",
+          "details": [
+            {
+              "day": "Sat, 04/03",
+              "startTime": "16:30",
+              "endTime": "17:00",
+              "rawStartTime": 1677947400000,
+              "rawEndTime": 1677949200000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -220,6 +232,18 @@
           "value": "122"
         },
         "propertySize": "122 m²",
+        "openViewings": {
+          "summary": "Open from Mar 4th",
+          "details": [
+            {
+              "day": "Sat, 04/03",
+              "startTime": "15:45",
+              "endTime": "16:15",
+              "rawStartTime": 1677944700000,
+              "rawEndTime": 1677946500000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
