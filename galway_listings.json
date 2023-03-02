@@ -9,7 +9,7 @@
           "Property",
           "Residential",
           "House",
-          "Bungalow"
+          "Detached House"
         ],
         "saleType": [
           "For Sale"
@@ -21,12 +21,13 @@
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
         "numBathrooms": "2 Bath",
-        "propertyType": "Bungalow",
+        "propertyType": "Detached",
         "daftShortcode": "115457016",
         "seller": {
           "sellerId": 1965,
           "name": "Alan Maxwell",
-          "phone": "091565261",
+          "phone": "+ 353 91 565261",
+          "alternativePhone": "087 252 2107",
           "phoneWhenToCall": "Mon - Fri, 9 am to 5:30 pm",
           "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjYvOS82OTM1OTZiYWZlOTYzZGNkODlhOWVkODFjZGRlNTBkYy5qcGcifQ==?signature=44f270d73b7f39da6447832e3d2a2e5f55fc07d4d34d322e6bd9e66f8791eea7",
           "branch": "DNG Maxwell Heaslip & Leonard",
@@ -110,7 +111,7 @@
             53.261207
           ]
         },
-        "seoFriendlyPath": "/for-sale/bungalow-aran-house-shangort-knocknacarra-co-galway/4645194",
+        "seoFriendlyPath": "/for-sale/detached-house-aran-house-shangort-knocknacarra-co-galway/4645194",
         "pageBranding": {
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNS8yLzUyMGI0YThjNTRmMDliM2UxOGJkYTQ0MzRkNzdkNzM1X3N0YW5kYXJkLnBuZyJ9?signature=651c1daca26ee619d9e31afe4c52619e49d89bc4d39f240a3c000b89196ae919",
           "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwLzMvMDM4OWIwZDBiNzZlMDMwMWVlZDgyZTEyN2JmYTg0MGYuanBnIn0=?signature=315ddb40964439b4717e1debd2c0a92e796746779185d58c81ce349c7a0e6d28",
@@ -1656,7 +1657,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677663770000,
+        "publishDate": 1677747713000,
         "price": "€230,000",
         "abbreviatedPrice": "€230k",
         "numBedrooms": "3 Bed",
@@ -2115,7 +2116,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677661671000,
+        "publishDate": 1677748625000,
         "price": "€175,000",
         "abbreviatedPrice": "€175k",
         "numBedrooms": "3 Bed",
