@@ -1478,14 +1478,34 @@
         "media": {
           "images": [
             {
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=6819e2642c04ccdb52ba9433ea848fd2725ff1039ef93697feb905dd2b5dcf36",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzLzEvMzFhYTNlZDU1Y2IwOGRkNjZhNWY5ZTI2ZWRiZDJmMmYuanBnIn0=?signature=85f20d32e2672149ce53d61e5f99e912c8ccf68863fa50664f24db86dc28869e",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=00b2dfcf7770b7fcde73f2b2619ec6f84b63276ee88f848072bb9690263f7013",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=fa21ddbc13cca42e6771bdba0a4393ae5b856f6380c4a816a3a0d34efe517f21",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=dfd4f8f0dfee78b037e687e908c3b213a9f4e47e51bde49a602c05126ede72f1",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=6b3ee18786e8182a4cfe36317573bb2dcf0eda0fcd84e10bf16434f73ae62799",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIzLzEvMzFhYTNlZDU1Y2IwOGRkNjZhNWY5ZTI2ZWRiZDJmMmYuanBnIn0=?signature=1a3f1f6945190ab1ab3878a8e78dc6cef330395c220543422bddeb13df98b2aa",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjMvMS8zMWFhM2VkNTVjYjA4ZGQ2NmE1ZjllMjZlZGJkMmYyZi5qcGcifQ==?signature=b0414cba34341271b906d338fdf6e804533202acffdc7432f2ca68db86a073ff"
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=7aa69ee04993cdee6f1a4ac54188a85946bc49a6ac5ac6ece218be93a1721a3e",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1L2IvNWIzYjhmNTNmMWQ2NmFiNWQ4MjI2NTUzY2M0ZmQ1M2IuanBnIn0=?signature=b915bde2b15ce9f4c4b24d4f5417773ca51d4eaa61c502f8b4214a9da01e88ca",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=2d898cd9ca8f47b5e23a1538b26629a7bc418a3f83d088f68411900160bca3b2",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=ba91b1e2ef4ef726f22fc114a480b943063f46847f1efe8ea0dfe6cd8a830264",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=91665285af0346c0fb6e3f7061788cb843dd278a2ccf095597fa2679554fdaae",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=2ba87e850441bf98c0013a9b265b2adfa89cb31a692da1608853cb87b3b3d81a",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI1L2IvNWIzYjhmNTNmMWQ2NmFiNWQ4MjI2NTUzY2M0ZmQ1M2IuanBnIn0=?signature=71440a26a9f030c4d5c4a962d2ccadc496e6b6f42883903858b3a65eb1801f92",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjUvYi81YjNiOGY1M2YxZDY2YWI1ZDgyMjY1NTNjYzRmZDUzYi5qcGcifQ==?signature=658724841e2592c6b6c450ff00d1062285befd99e532a9aa245c793d6703aae9"
+            },
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=039e2f2da7b5ddfb151c41f45a27ec85d542bf55946fc59822b51fc87f9268dd",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkLzEvZDFjY2NkYTUzMjJiYjcxY2NjMGFmMmNkYWUwMWI1M2MuanBnIn0=?signature=24d08b0afc248bdb0dd67fad5b11c22fae14e250920f5d1f9cefd99fe19ed18f",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=6d976b1390471f7279f707201e110d7b502f499be661bd936035b2950f4b8175",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=f21bb13d4744262e91e3056349f929ff0d455b64de8d3e06df7bef847651dff1",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=95034a15cebe43d8409e5f241036cbdc7f664aa7f3cc131061bc2609ac04cde0",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=722bcfd91d8326a566c091e33d308677182d2142f059712e9297547b60bee408",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkLzEvZDFjY2NkYTUzMjJiYjcxY2NjMGFmMmNkYWUwMWI1M2MuanBnIn0=?signature=dbe5a7e538717aaf2c0b4e277659ec8c78312bb9c6ce72c597867f0303e411c5",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvMS9kMWNjY2RhNTMyMmJiNzFjY2MwYWYyY2RhZTAxYjUzYy5qcGcifQ==?signature=3dcfd9cd946b5c39082a00d452e69a114593c2bc069b1cbb81668041c8059af2"
+            },
+            {
+              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=cf17d3a32d402431b0677a2e7e5ba0f84b3ee79151742ce7af7d56013e20fc3b",
+              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4LzYvODY5YzU2ZTdlNjFmNGQwZGRmZDcwM2ZmMzI5ZmJkYzMuanBnIn0=?signature=fd727e4d0beeb2ec3aabdc1bfc5fe1783c9bee3d7b3232bf5ca6cc6ba425c8b8",
+              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=13d8b862c493d00d341fccbe1f5f41ae5a416699e583309ea96fb50965220ef7",
+              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=d4e2bec6984cf7789aefc3637b136a618901b5c9d9d3bd7d7200e8abe96531a6",
+              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=c7aea385aacd718b5e061eeec4ff81487c6ede5bb1a22867a4c2e1fa41dd6b39",
+              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=0ef3c6451d68deb2140fa3de9074c7dc1b0be333427c9b1ade9cba64f3b6ddfb",
+              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI4LzYvODY5YzU2ZTdlNjFmNGQwZGRmZDcwM2ZmMzI5ZmJkYzMuanBnIn0=?signature=de89e7caebb822f102150b735dbe93692ec35388bd5c7fd476fa8186260e8d03",
+              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjgvNi84NjljNTZlN2U2MWY0ZDBkZGZkNzAzZmYzMjlmYmRjMy5qcGcifQ==?signature=57ceaaa236a6e3a690226c6439e2c894237c20d75446894e1abe3086d70460ad"
             },
             {
               "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjIvMS8yMWVmOTAyOTQ4Y2M2NzlmMTk4ZGE2ZDMxMzhiMzA3MS5wbmcifQ==?signature=2c804ad22e044f2e6293dcb0fac882be6a9b24ba06a0bdeb1305b2dd2c318355",
@@ -1496,29 +1516,9 @@
               "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjIvMS8yMWVmOTAyOTQ4Y2M2NzlmMTk4ZGE2ZDMxMzhiMzA3MS5wbmcifQ==?signature=8156ceb99337d99a8aae5ec11846c8d61e8fb40f4b20d5ddf97398589e122bcf",
               "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIyLzEvMjFlZjkwMjk0OGNjNjc5ZjE5OGRhNmQzMTM4YjMwNzEucG5nIn0=?signature=2e4718aa8b9826be98cb4235ecfb82febc88764f6d69bb902e946c8560b6a5f2",
               "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjIvMS8yMWVmOTAyOTQ4Y2M2NzlmMTk4ZGE2ZDMxMzhiMzA3MS5wbmcifQ==?signature=2fbbf95c041c39b421edf4c68418ed89d31c80a19c7f5191f149120da264c7c9"
-            },
-            {
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=fbabfd1bd2795bf0460d774d3b1c6547373ad6fa3e0399b41187b1d56b6cb6c7",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkLzgvZDg1YTQwNDg1ZGUzNTUyZjg4ODFlZDI0MzI5MTVlNzgucG5nIn0=?signature=322786bd83bd46263dc0755750bc62e2ca1e9d8702c6118d25ffc116e490a062",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=5eddfb0bfae952c3e59b67b5b0daf56f684130ae06be82c890a440cb236146ee",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=4305ee32299b25790155287bc9ed1978d041d36870c4851a0dbb3c701d34a9af",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=848ef3c601413f5cd8da5eaa32f5b68fbb5ad54ae7f581759972446776528276",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=25aa64d5694a0a87147b32836f5e4fcc1521620522ae467fdda0ac4380a150b1",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiJkLzgvZDg1YTQwNDg1ZGUzNTUyZjg4ODFlZDI0MzI5MTVlNzgucG5nIn0=?signature=a0c666af91ae2818c97f85db73113f803a6839f9170914f23c2d1ba68bac3052",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6ImQvOC9kODVhNDA0ODVkZTM1NTJmODg4MWVkMjQzMjkxNWU3OC5wbmcifQ==?signature=b7cb1aafece03818f8b4fbefd5cc8ea47978bf6a63e709d31c1783db3666dd8a"
-            },
-            {
-              "size720x480": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyMCwiaGVpZ2h0Ijo0ODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=77a617d312c57c1bce83fb2d844edf03585ecfaae2e594e162a937e38d7a5439",
-              "size600x600": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjo2MDAsImhlaWdodCI6NjAwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2QvN2QzOTZmZTc5OTc5Y2U4Njg3Yzc2ZTAxY2I2YTNjNzcucG5nIn0=?signature=74d7e7d44bdb789988f32c42288e57575cad934d61613e5dd05684e4fa98a929",
-              "size400x300": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjQwMCwiaGVpZ2h0IjozMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=bc749f9d3125653885a3ca9f595cb04a212dc755ec823e4242f48b1059158222",
-              "size360x240": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyNDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=54b14bbeb5b0778b6bc5c4fe7699c1ae31276e1dd53800b2a4b4da62fb52e052",
-              "size300x200": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMwMCwiaGVpZ2h0IjoyMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=26e19dfe70860c5de911ccca7b9e319654f3692b7a31f232eb65c5d2a2acecd8",
-              "size320x280": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjMyMCwiaGVpZ2h0IjoyODB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=df422403fc82079fd49bbaad6bdfbf07c97e89750d62e6f4f7bddb78ff1b54ea",
-              "size72x52": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjcyLCJoZWlnaHQiOjUyfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI3L2QvN2QzOTZmZTc5OTc5Y2U4Njg3Yzc2ZTAxY2I2YTNjNzcucG5nIn0=?signature=9bc4378143f6010e2f0e37968aaaec3f09551d9ee517dc40a157a067a436db98",
-              "size680x392": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjY4MCwiaGVpZ2h0IjozOTJ9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjcvZC83ZDM5NmZlNzk5NzljZTg2ODdjNzZlMDFjYjZhM2M3Ny5wbmcifQ==?signature=01e0edc2007681c0fe56b8b99bb12714ed63def23c4ff388463411a108e8d3ab"
             }
           ],
-          "totalImages": 9,
+          "totalImages": 12,
           "hasVideo": false,
           "hasVirtualTour": false,
           "hasBrochure": false
@@ -2241,7 +2241,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677776676000,
+        "publishDate": 1677780255000,
         "price": "€300,000",
         "abbreviatedPrice": "€300k",
         "numBedrooms": "3 Bed",
@@ -3810,7 +3810,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677776675000,
+        "publishDate": 1677780255000,
         "price": "€325,000",
         "abbreviatedPrice": "€325k",
         "numBedrooms": "3 Bed",
@@ -4413,7 +4413,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677776674000,
+        "publishDate": 1677780253000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "3 Bed",
@@ -5795,7 +5795,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1677776675000,
+        "publishDate": 1677780255000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
