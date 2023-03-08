@@ -352,7 +352,6 @@
           "sellerId": 3535,
           "name": "Joe Greaney",
           "phone": "091 563744",
-          "alternativePhone": "087 2529116",
           "branch": "Keane Mahony Smith MIAVI",
           "address": "37/ Prospect Hill\r\nEyre Square. Galway City",
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNy9jLzdjNjU3NGFkYTllMTdkMDZmYTZlOTBhN2NmNmIxYzZkX3N0YW5kYXJkLnBuZyJ9?signature=e13df65b1427149a93875997ad184d9ae5dd00cb6aba91d5f3dc497ae2f761ec",
@@ -413,14 +412,16 @@
           "hasBrochure": false
         },
         "ber": {
-          "rating": "C3"
+          "rating": "C1",
+          "code": "116261033",
+          "epi": "170.32 kWh/m2/yr"
         },
         "platform": "WEB",
         "floorArea": {
           "unit": "METRES_SQUARED",
-          "value": "74"
+          "value": "75"
         },
-        "propertySize": "74 m²",
+        "propertySize": "75 m²",
         "point": {
           "type": "Point",
           "coordinates": [
@@ -659,6 +660,18 @@
           "value": "68"
         },
         "propertySize": "68 m²",
+        "openViewings": {
+          "summary": "Open from Mar 11th",
+          "details": [
+            {
+              "day": "Sat, 11/03",
+              "startTime": "11:00",
+              "endTime": "11:30",
+              "rawStartTime": 1678532400000,
+              "rawEndTime": 1678534200000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -698,7 +711,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678287906000,
+        "publishDate": 1678291506000,
         "price": "€340,000",
         "abbreviatedPrice": "€340k",
         "numBedrooms": "3 Bed",
@@ -1298,7 +1311,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678287908000,
+        "publishDate": 1678291509000,
         "price": "€295,000",
         "abbreviatedPrice": "€295k",
         "numBedrooms": "3 Bed",
@@ -1787,7 +1800,7 @@
         ],
         "featuredLevel": "PREMIUM",
         "featuredLevelFull": "PREMIER_PARTNER_PREMIUM",
-        "publishDate": 1678287906000,
+        "publishDate": 1678291506000,
         "price": "€355,000",
         "abbreviatedPrice": "€355k",
         "numBedrooms": "3 Bed",
@@ -2421,6 +2434,18 @@
           "value": "132"
         },
         "propertySize": "132 m²",
+        "openViewings": {
+          "summary": "Open from Mar 11th",
+          "details": [
+            {
+              "day": "Sat, 11/03",
+              "startTime": "15:00",
+              "endTime": "15:30",
+              "rawStartTime": 1678546800000,
+              "rawEndTime": 1678548600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -3255,6 +3280,18 @@
           "value": "63"
         },
         "propertySize": "63 m²",
+        "openViewings": {
+          "summary": "Open from Mar 11th",
+          "details": [
+            {
+              "day": "Sat, 11/03",
+              "startTime": "12:15",
+              "endTime": "12:45",
+              "rawStartTime": 1678536900000,
+              "rawEndTime": 1678538700000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -4302,7 +4339,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678287908000,
+        "publishDate": 1678291509000,
         "price": "€300,000",
         "abbreviatedPrice": "€300k",
         "numBedrooms": "3 Bed",
@@ -4510,6 +4547,18 @@
           "value": "60"
         },
         "propertySize": "60 m²",
+        "openViewings": {
+          "summary": "Open from Mar 11th",
+          "details": [
+            {
+              "day": "Sat, 11/03",
+              "startTime": "15:00",
+              "endTime": "15:30",
+              "rawStartTime": 1678546800000,
+              "rawEndTime": 1678548600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -4877,6 +4926,18 @@
           "value": "53"
         },
         "propertySize": "53 m²",
+        "openViewings": {
+          "summary": "Open from Mar 11th",
+          "details": [
+            {
+              "day": "Sat, 11/03",
+              "startTime": "10:00",
+              "endTime": "10:30",
+              "rawStartTime": 1678528800000,
+              "rawEndTime": 1678530600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -5748,7 +5809,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678287908000,
+        "publishDate": 1678291508000,
         "price": "€325,000",
         "abbreviatedPrice": "€325k",
         "numBedrooms": "3 Bed",
