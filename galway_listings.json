@@ -3566,18 +3566,6 @@
           "value": "80"
         },
         "propertySize": "80 m²",
-        "openViewings": {
-          "summary": "Open from Mar 10th",
-          "details": [
-            {
-              "day": "Fri, 10/03",
-              "startTime": "18:00",
-              "endTime": "18:45",
-              "rawStartTime": 1678471200000,
-              "rawEndTime": 1678473900000
-            }
-          ]
-        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -3598,11 +3586,12 @@
         "category": "Buy",
         "state": "PUBLISHED",
         "offers": {
-          "awaitingBidders": 0,
+          "awaitingBidders": 1,
           "bookingDeposit": 5000,
+          "highestOffer": "€225,000",
           "minimumIncrement": 1000,
           "minimumOfferAmount": 215000,
-          "offersCount": 0,
+          "offersCount": 1,
           "status": "OPENED"
         },
         "premierPartner": true
