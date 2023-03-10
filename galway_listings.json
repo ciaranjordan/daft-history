@@ -3586,7 +3586,7 @@
         "category": "Buy",
         "state": "PUBLISHED",
         "offers": {
-          "awaitingBidders": 1,
+          "awaitingBidders": 0,
           "bookingDeposit": 5000,
           "highestOffer": "€225,000",
           "minimumIncrement": 1000,
