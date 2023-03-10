@@ -87,7 +87,7 @@
           ],
           "totalImages": 23,
           "hasVideo": false,
-          "hasVirtualTour": false,
+          "hasVirtualTour": true,
           "hasBrochure": false
         },
         "ber": {
@@ -139,7 +139,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678467933000,
+        "publishDate": 1678471446000,
         "price": "€215,000",
         "abbreviatedPrice": "€215k",
         "numBedrooms": "2 Bed",
@@ -2771,7 +2771,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678467880000,
+        "publishDate": 1678471442000,
         "price": "€340,000",
         "abbreviatedPrice": "€340k",
         "numBedrooms": "3 Bed",
@@ -3359,7 +3359,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678467883000,
+        "publishDate": 1678471446000,
         "price": "€295,000",
         "abbreviatedPrice": "€295k",
         "numBedrooms": "3 Bed",
@@ -3597,6 +3597,14 @@
         },
         "category": "Buy",
         "state": "PUBLISHED",
+        "offers": {
+          "awaitingBidders": 0,
+          "bookingDeposit": 5000,
+          "minimumIncrement": 1000,
+          "minimumOfferAmount": 215000,
+          "offersCount": 0,
+          "status": "OPENED"
+        },
         "premierPartner": true
       },
       "savedAd": false
@@ -3848,7 +3856,7 @@
         ],
         "featuredLevel": "PREMIUM",
         "featuredLevelFull": "PREMIER_PARTNER_PREMIUM",
-        "publishDate": 1678467880000,
+        "publishDate": 1678471442000,
         "price": "€355,000",
         "abbreviatedPrice": "€355k",
         "numBedrooms": "3 Bed",
