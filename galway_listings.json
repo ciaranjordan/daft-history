@@ -3586,7 +3586,7 @@
         "category": "Buy",
         "state": "PUBLISHED",
         "offers": {
-          "awaitingBidders": 0,
+          "awaitingBidders": 1,
           "bookingDeposit": 5000,
           "highestOffer": "€228,000",
           "minimumIncrement": 1000,
@@ -4775,7 +4775,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678446308000,
+        "publishDate": 1678532650000,
         "price": "€295,000",
         "abbreviatedPrice": "€295k",
         "numBedrooms": "4 Bed",
