@@ -101,6 +101,18 @@
           "value": "120"
         },
         "propertySize": "120 m²",
+        "openViewings": {
+          "summary": "Open from Mar 18th",
+          "details": [
+            {
+              "day": "Sat, 18/03",
+              "startTime": "12:00",
+              "endTime": "13:00",
+              "rawStartTime": 1679140800000,
+              "rawEndTime": 1679144400000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -140,7 +152,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678817204000,
+        "publishDate": 1678878320000,
         "price": "€265,000",
         "abbreviatedPrice": "€265k",
         "propertyType": "Semi-D",
@@ -148,7 +160,7 @@
         "seller": {
           "sellerId": 12163,
           "name": "Liam Farragher",
-          "phone": "01 4900700",
+          "phone": "091396420",
           "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjAvYi8wYjQ1YmMwZjBmN2UyZDAwNjk5MjVlZWMyYTIwOTU3Ny5wbmcifQ==?signature=311e72ea389f3124de12c095a9e3edee3cdb895113c5db2a720ab6c33b5e17d7",
           "branch": "Keller Williams Ireland",
           "address": "UNIT 7 LEOPARDSTOWN BUSINESS CENTRE, LEOPARDSTOWN, DUBLIN 18",
@@ -252,7 +264,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874574000,
+        "publishDate": 1678878197000,
         "price": "€345,000",
         "abbreviatedPrice": "€345k",
         "numBedrooms": "4 Bed",
@@ -738,7 +750,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874574000,
+        "publishDate": 1678878197000,
         "price": "€220,000",
         "abbreviatedPrice": "€220k",
         "numBedrooms": "2 Bed",
@@ -863,7 +875,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874573000,
+        "publishDate": 1678878196000,
         "price": "€635,000",
         "abbreviatedPrice": "€635k",
         "numBedrooms": "4 Bed",
@@ -1111,7 +1123,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874574000,
+        "publishDate": 1678878197000,
         "price": "€215,000",
         "abbreviatedPrice": "€215k",
         "numBedrooms": "2 Bed",
@@ -1711,7 +1723,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678446367000,
+        "publishDate": 1678878576000,
         "price": "€245,000",
         "abbreviatedPrice": "€245k",
         "numBedrooms": "2 Bed",
@@ -3720,7 +3732,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874572000,
+        "publishDate": 1678878195000,
         "price": "€340,000",
         "abbreviatedPrice": "€340k",
         "numBedrooms": "3 Bed",
@@ -4320,7 +4332,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678874574000,
+        "publishDate": 1678878197000,
         "price": "€295,000",
         "abbreviatedPrice": "€295k",
         "numBedrooms": "3 Bed",
@@ -4806,7 +4818,7 @@
         ],
         "featuredLevel": "PREMIUM",
         "featuredLevelFull": "PREMIER_PARTNER_PREMIUM",
-        "publishDate": 1678874572000,
+        "publishDate": 1678878194000,
         "price": "€355,000",
         "abbreviatedPrice": "€355k",
         "numBedrooms": "3 Bed",
@@ -5724,7 +5736,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1678791917000,
+        "publishDate": 1678878321000,
         "price": "€295,000",
         "abbreviatedPrice": "€295k",
         "numBedrooms": "4 Bed",
@@ -5734,7 +5746,7 @@
         "seller": {
           "sellerId": 12163,
           "name": "Liam Farragher",
-          "phone": "01 4900700",
+          "phone": "091396420",
           "profileImage": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9fSwib3V0cHV0Rm9ybWF0IjoianBlZyIsImtleSI6IjAvYi8wYjQ1YmMwZjBmN2UyZDAwNjk5MjVlZWMyYTIwOTU3Ny5wbmcifQ==?signature=311e72ea389f3124de12c095a9e3edee3cdb895113c5db2a720ab6c33b5e17d7",
           "branch": "Keller Williams Ireland",
           "address": "UNIT 7 LEOPARDSTOWN BUSINESS CENTRE, LEOPARDSTOWN, DUBLIN 18",
@@ -5933,7 +5945,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 266,
+    "totalResults": 262,
     "pageSize": 50
   },
   "dfpTargetingValues": {
