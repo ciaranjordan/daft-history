@@ -5152,6 +5152,18 @@
           "value": "80"
         },
         "propertySize": "80 m²",
+        "openViewings": {
+          "summary": "Open from Mar 16th",
+          "details": [
+            {
+              "day": "Thu, 16/03",
+              "startTime": "18:00",
+              "endTime": "18:00",
+              "rawStartTime": 1678989600000,
+              "rawEndTime": 1678989600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
