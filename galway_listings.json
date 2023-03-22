@@ -243,7 +243,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486617000,
+        "publishDate": 1679490268000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
@@ -557,6 +557,18 @@
           "value": "66"
         },
         "propertySize": "66 m²",
+        "openViewings": {
+          "summary": "Open from Mar 25th",
+          "details": [
+            {
+              "day": "Sat, 25/03",
+              "startTime": "14:00",
+              "endTime": "14:30",
+              "rawStartTime": 1679752800000,
+              "rawEndTime": 1679754600000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -681,6 +693,18 @@
           "value": "99"
         },
         "propertySize": "99 m²",
+        "openViewings": {
+          "summary": "Open from Mar 25th",
+          "details": [
+            {
+              "day": "Sat, 25/03",
+              "startTime": "13:00",
+              "endTime": "13:30",
+              "rawStartTime": 1679749200000,
+              "rawEndTime": 1679751000000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -713,18 +737,19 @@
           "Property",
           "Residential",
           "House",
-          "End of Terrace House"
+          "Semi-Detached House"
         ],
         "saleType": [
           "For Sale"
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486615000,
+        "publishDate": 1679490265000,
         "price": "€425,000",
         "abbreviatedPrice": "€425k",
         "numBedrooms": "3 Bed",
-        "propertyType": "End of Terrace",
+        "numBathrooms": "2 Bath",
+        "propertyType": "Semi-D",
         "daftShortcode": "115665628",
         "seller": {
           "sellerId": 911,
@@ -811,7 +836,7 @@
             53.264616
           ]
         },
-        "seoFriendlyPath": "/for-sale/end-of-terrace-house-3a-devon-park-salthill-co-galway/4668423",
+        "seoFriendlyPath": "/for-sale/semi-detached-house-3a-devon-park-salthill-co-galway/4668423",
         "pageBranding": {
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNS8wLzUwOTk0YmZhYzdiNzAzY2VhZmJiYzZjMzI0NWNmOWQzX3N0YW5kYXJkLnBuZyJ9?signature=b8aeafcb5c47c019896d9974bca62a055e525dae65fcb6c0d9caa7ba27f32c74",
           "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiI0LzgvNDg4MGQzNjgwMDNkNThmN2NkYzQxZTlmYWU5ZGFjNjQuanBnIn0=?signature=4abd47f526f64450a26fb14ed642c149e5df77675c37c86ebd4da093999fbe2b",
@@ -1400,6 +1425,18 @@
           "value": "175"
         },
         "propertySize": "175 m²",
+        "openViewings": {
+          "summary": "Open from Mar 25th",
+          "details": [
+            {
+              "day": "Sat, 25/03",
+              "startTime": "14:30",
+              "endTime": "15:00",
+              "rawStartTime": 1679754600000,
+              "rawEndTime": 1679756400000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -1789,7 +1826,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486616000,
+        "publishDate": 1679490267000,
         "price": "€950,000",
         "abbreviatedPrice": "€950k",
         "numBedrooms": "4 Bed",
@@ -2030,7 +2067,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486615000,
+        "publishDate": 1679490265000,
         "price": "€285,000",
         "abbreviatedPrice": "€285k",
         "numBedrooms": "2 Bed",
@@ -2364,6 +2401,18 @@
           "value": "120"
         },
         "propertySize": "120 m²",
+        "openViewings": {
+          "summary": "Open from Mar 25th",
+          "details": [
+            {
+              "day": "Sat, 25/03",
+              "startTime": "11:00",
+              "endTime": "11:30",
+              "rawStartTime": 1679742000000,
+              "rawEndTime": 1679743800000
+            }
+          ]
+        },
         "point": {
           "type": "Point",
           "coordinates": [
@@ -2489,14 +2538,14 @@
         },
         "propertySize": "120 m²",
         "openViewings": {
-          "summary": "Open from Mar 22nd",
+          "summary": "Open from Mar 25th",
           "details": [
             {
-              "day": "Wed, 22/03",
+              "day": "Sat, 25/03",
               "startTime": "12:00",
               "endTime": "13:00",
-              "rawStartTime": 1679486400000,
-              "rawEndTime": 1679490000000
+              "rawStartTime": 1679745600000,
+              "rawEndTime": 1679749200000
             }
           ]
         },
@@ -2651,7 +2700,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486618000,
+        "publishDate": 1679490269000,
         "price": "€345,000",
         "abbreviatedPrice": "€345k",
         "numBedrooms": "4 Bed",
@@ -3137,7 +3186,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486617000,
+        "publishDate": 1679490269000,
         "price": "€220,000",
         "abbreviatedPrice": "€220k",
         "numBedrooms": "2 Bed",
@@ -3262,7 +3311,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486616000,
+        "publishDate": 1679490267000,
         "price": "€635,000",
         "abbreviatedPrice": "€635k",
         "numBedrooms": "4 Bed",
@@ -3510,7 +3559,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679486617000,
+        "publishDate": 1679490269000,
         "price": "€215,000",
         "abbreviatedPrice": "€215k",
         "numBedrooms": "2 Bed",
@@ -4357,7 +4406,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1679404114000,
+        "publishDate": 1679490457000,
         "price": "€1,200,000",
         "abbreviatedPrice": "€1.2M",
         "numBedrooms": "4 Bed",
@@ -5998,7 +6047,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 244,
+    "totalResults": 243,
     "pageSize": 50
   },
   "dfpTargetingValues": {
