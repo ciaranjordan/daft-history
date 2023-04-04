@@ -104,8 +104,8 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.058519,
-            53.26389
+            -9.058518,
+            53.263891
           ]
         },
         "seoFriendlyPath": "/for-sale/semi-detached-house-68a-fairhill-road-upper-the-claddagh-claddagh-co-galway/4685100",
@@ -731,7 +731,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1680523532000,
+        "publishDate": 1680606302000,
         "price": "€240,000",
         "abbreviatedPrice": "€240k",
         "numBedrooms": "3 Bed",
@@ -847,7 +847,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1680523532000,
+        "publishDate": 1680606302000,
         "price": "€245,000",
         "abbreviatedPrice": "€245k",
         "numBedrooms": "3 Bed",
@@ -4190,7 +4190,8 @@
         "seller": {
           "sellerId": 9949,
           "name": "Colm Ruane",
-          "phone": "+353 86 140 8832",
+          "phone": "086 1408832",
+          "alternativePhone": "091 330300",
           "branch": "Remax Professional Partners",
           "address": "72 0’Connell Street Limerick V94 X43W",
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiYi9lL2JlMjg1ZDVhNjdmMDYzYjU2ODZiNGJmODA0NTE2NTdjX3N0YW5kYXJkLnBuZyJ9?signature=78b410fd390c2258057a367924911c81b2d175f8b65bc69a539950a663d1232b",
@@ -4249,6 +4250,9 @@
           "hasVideo": false,
           "hasVirtualTour": false,
           "hasBrochure": false
+        },
+        "ber": {
+          "rating": "SI_666"
         },
         "platform": "FEEDS",
         "point": {
@@ -4517,7 +4521,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1680598963000,
+        "publishDate": 1680602575000,
         "price": "€275,000",
         "abbreviatedPrice": "€275k",
         "numBedrooms": "2 Bed",
@@ -4994,7 +4998,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1680598962000,
+        "publishDate": 1680602573000,
         "price": "€425,000",
         "abbreviatedPrice": "€425k",
         "numBedrooms": "3 Bed",
