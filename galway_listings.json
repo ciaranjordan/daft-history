@@ -37,7 +37,7 @@
           "showContactForm": true,
           "premierPartnerSeller": false
         },
-        "dateOfConstruction": "NA",
+        "dateOfConstruction": "1964",
         "media": {
           "images": [
             {
@@ -90,6 +90,11 @@
           "hasVirtualTour": false,
           "hasBrochure": false
         },
+        "ber": {
+          "rating": "D1",
+          "code": "104525415",
+          "epi": "251.6 kWh/m2/yr"
+        },
         "platform": "FEEDS",
         "floorArea": {
           "unit": "METRES_SQUARED",
@@ -99,8 +104,8 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.024947,
-            53.27909
+            -9.024946,
+            53.279091
           ]
         },
         "seoFriendlyPath": "/for-sale/semi-detached-house-74-renmore-park-renmore-co-galway/4706447",
@@ -223,8 +228,8 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.008249,
-            53.294708
+            -8.985281,
+            53.295614
           ]
         },
         "seoFriendlyPath": "/for-sale/detached-house-parkmore-castlegar-co-galway/4706445",
@@ -363,7 +368,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681830271000,
+        "publishDate": 1681833849000,
         "price": "€725,000",
         "abbreviatedPrice": "€725k",
         "numBedrooms": "6 Bed",
@@ -1041,7 +1046,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681830274000,
+        "publishDate": 1681833851000,
         "price": "€440,000",
         "abbreviatedPrice": "€440k",
         "numBedrooms": "3 Bed",
@@ -2154,7 +2159,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681830274000,
+        "publishDate": 1681833851000,
         "price": "€695,000",
         "abbreviatedPrice": "€695k",
         "numBedrooms": "4 Bed",
@@ -3439,7 +3444,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681830273000,
+        "publishDate": 1681833850000,
         "price": "€475,000",
         "abbreviatedPrice": "€475k",
         "numBedrooms": "4 Bed",
