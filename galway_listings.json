@@ -324,7 +324,7 @@
           ],
           "totalImages": 14,
           "hasVideo": false,
-          "hasVirtualTour": false,
+          "hasVirtualTour": true,
           "hasBrochure": false
         },
         "ber": {
@@ -363,7 +363,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681826672000,
+        "publishDate": 1681830271000,
         "price": "€725,000",
         "abbreviatedPrice": "€725k",
         "numBedrooms": "6 Bed",
@@ -1041,7 +1041,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681826674000,
+        "publishDate": 1681830274000,
         "price": "€440,000",
         "abbreviatedPrice": "€440k",
         "numBedrooms": "3 Bed",
@@ -1770,8 +1770,8 @@
     {
       "listing": {
         "id": 4700881,
-        "title": "78 Woodfield, Cappagh Road, Cappagh, Co. Galway",
-        "seoTitle": "78 Woodfield, Cappagh Road, Cappagh, Co. Galway",
+        "title": "78 Woodfield, Cappagh Road, Barna, Co. Galway",
+        "seoTitle": "78 Woodfield, Cappagh Road, Barna, Co. Galway",
         "sections": [
           "Property",
           "Residential",
@@ -1783,7 +1783,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681722244000,
+        "publishDate": 1681831338000,
         "price": "€380,000",
         "abbreviatedPrice": "€380k",
         "numBedrooms": "3 Bed",
@@ -1873,11 +1873,11 @@
         "point": {
           "type": "Point",
           "coordinates": [
-            -9.126513,
-            53.261707
+            -9.126514,
+            53.261706
           ]
         },
-        "seoFriendlyPath": "/for-sale/semi-detached-house-78-woodfield-cappagh-road-cappagh-co-galway/4700881",
+        "seoFriendlyPath": "/for-sale/semi-detached-house-78-woodfield-cappagh-road-barna-co-galway/4700881",
         "pageBranding": {
           "standardLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsImhlaWdodCI6ODB9fSwia2V5IjoiNS8yLzUyMGI0YThjNTRmMDliM2UxOGJkYTQ0MzRkNzdkNzM1X3N0YW5kYXJkLnBuZyJ9?signature=651c1daca26ee619d9e31afe4c52619e49d89bc4d39f240a3c000b89196ae919",
           "squareLogo": "https://media.daft.ie/eyJidWNrZXQiOiJtZWRpYW1hc3Rlci1zM2V1IiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6Imluc2lkZSIsIndpZHRoIjoxMjAsImhlaWdodCI6MTIwfX0sIm91dHB1dEZvcm1hdCI6ImpwZWciLCJrZXkiOiIwLzMvMDM4OWIwZDBiNzZlMDMwMWVlZDgyZTEyN2JmYTg0MGYuanBnIn0=?signature=315ddb40964439b4717e1debd2c0a92e796746779185d58c81ce349c7a0e6d28",
@@ -2154,7 +2154,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681826674000,
+        "publishDate": 1681830274000,
         "price": "€695,000",
         "abbreviatedPrice": "€695k",
         "numBedrooms": "4 Bed",
@@ -3439,7 +3439,7 @@
         ],
         "featuredLevel": "STANDARD",
         "featuredLevelFull": "STANDARD",
-        "publishDate": 1681826674000,
+        "publishDate": 1681830273000,
         "price": "€475,000",
         "abbreviatedPrice": "€475k",
         "numBedrooms": "4 Bed",
@@ -5897,7 +5897,7 @@
     "previousFrom": 0,
     "displayingFrom": 1,
     "displayingTo": 50,
-    "totalResults": 237,
+    "totalResults": 235,
     "pageSize": 50
   },
   "dfpTargetingValues": {
